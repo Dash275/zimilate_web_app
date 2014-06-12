@@ -1,0 +1,17 @@
+{
+ "name": "Zimilate",
+ "description": "Save, Organize, and Expand What You Know",
+ "version": "1.0.0",
+ "manifest_version": 2,
+ "icons": {
+ "128": "icon_128.png"
+ },
+ "app": {
+ "urls": [
+ "http://www.zimilate.com/"
+ ],
+ "launch": {
+ "web_url": "http://www.zimilate.com/"
+ }
+ }
+ }
